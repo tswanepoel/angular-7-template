@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "prestart": "npminstall",
+    "prestart": "npm install",
     "start": "ng serve --host 0.0.0.0 --port 8000 --disable-host-check",
     "build": "ng build",
     "pretest": "npm install",
